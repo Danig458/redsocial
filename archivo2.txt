@@ -1,1 +1,2 @@
 comenzando el Submodulo de nuevas tecnologias 
+viendo el sistema de control de versiones git
